@@ -1,6 +1,12 @@
 # PhotoSticker demo
 Demo for [https://github.com/jeremyrajan/photoStickerUpload](photostickerapp)
 
+## Dependencies
+* AngularJS
+* Materialize UI
+* JqueryUI
+* FontAwesome
+
 ##Features
 * Photo Upload using Data-URI & FileReader
 * Drag & Drop
