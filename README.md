@@ -1,5 +1,5 @@
 # PhotoSticker demo
-Demo for [https://github.com/jeremyrajan/photoStickerUpload](photostickerapp)
+Demo for [https://github.com/jeremyrajan/photoStickerUpload/](photostickerapp)
 
 ## Dependencies
 * AngularJS
